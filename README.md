@@ -85,6 +85,10 @@ Avg Order Value = DIVIDE([Total Sales], [Total Orders])
 
 📸 Dashboard Preview
 
+<img width="1521" height="855" alt="Screenshot 2025-10-28 021026" src="https://github.com/user-attachments/assets/d0386f0e-f1d6-443b-a1a5-ccdab3fd49d2" />
+<img width="1516" height="853" alt="Screenshot 2025-10-28 021048" src="https://github.com/user-attachments/assets/b9e8e647-6809-4dcb-acd0-a770a25a5aef" />
+
+
 
 Author: Mohammed Mohiuddin Khan  
 GitHub: [Mohiuddin2003](https://github.com/Mohiuddin2003)
